@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+  <body>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+      <rect width="64" height="64" fill="#091421" />
+      <path d="M22 52 L32 12 L42 52 Z" fill="#8be9fd" />
+      <path d="M24 52 L32 22 L40 52 Z" fill="#ffb703" />
+      <circle cx="32" cy="24" r="4" fill="#f8fafc" />
+    </svg>
+  </body>
+</html>
